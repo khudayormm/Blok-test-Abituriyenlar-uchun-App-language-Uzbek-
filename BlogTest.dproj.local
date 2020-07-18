@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.583,C:\Users\User\Documents\Embarcadero\new - копия\blog_2.fmx=C:\Users\User\Documents\Embarcadero\new - копия\blog_3.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,C:\Users\User\Desktop\new - копия\blog_1.pas=C:\Users\User\Desktop\new - копия\admin.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\User\Desktop\new - копия\blog_1.pas=C:\Users\User\Desktop\new - копия\blog_2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,C:\Users\User\Desktop\fffff - копия\Unit2.fmx=C:\Users\User\Desktop\fffff - копия\admin.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.407,=C:\Users\User\Desktop\fffff - копия\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,C:\Users\User\Desktop\fffff - копия\Unit2.pas=C:\Users\User\Desktop\fffff - копия\admin.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.838,D:\wejaste\fffff\Project1.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,C:\Users\User\Documents\Embarcadero\new - копия\Unit3.pas=C:\Users\User\Documents\Embarcadero\new - копия\blog_2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,D:\wejaste\fffff\Unit2.fmx=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.426,D:\wejaste\fffff\Unit2.fmx=D:\wejaste\fffff\MainForm_u.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.426,=C:\Users\User\Documents\Embarcadero\new - копия\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,=D:\wejaste\fffff\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,C:\Users\User\Documents\Embarcadero\new - копия\blog_2.pas=C:\Users\User\Documents\Embarcadero\new - копия\blog_3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,D:\08082018\new_2019 - копия\BlogTest.dproj=D:\08082018\new_2019 - копия\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,C:\Users\User\Desktop\new - копия\blog.fmx=C:\Users\User\Desktop\new - копия\blog_2.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.426,D:\wejaste\fffff\Unit2.pas=D:\wejaste\fffff\MainForm_u.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,D:\wejaste\fffff\Unit2.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,C:\Users\User\Desktop\new - копия\blog_2.pas=C:\Users\User\Desktop\new - копия\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,C:\Users\User\Documents\Embarcadero\new - копия\Unit3.fmx=C:\Users\User\Documents\Embarcadero\new - копия\blog_2.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.538,C:\Users\User\Desktop\new - копия\blog_2.pas=C:\Users\User\Desktop\new - копия\blog.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.667,C:\Users\User\Desktop\new - копия\blog_2.pas=C:\Users\User\Desktop\new - копия\blog_1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.727,=C:\Users\User\Desktop\new - копия\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\User\Desktop\new - копия\blog_1.fmx=C:\Users\User\Desktop\new - копия\blog_2.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,C:\Users\User\Desktop\new - копия\blog_1.fmx=C:\Users\User\Desktop\new - копия\admin.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,C:\Users\User\Desktop\new - копия\blog.pas=C:\Users\User\Desktop\new - копия\blog_2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.667,C:\Users\User\Desktop\new - копия\blog_2.fmx=C:\Users\User\Desktop\new - копия\blog_1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.538,C:\Users\User\Desktop\new - копия\blog_2.fmx=C:\Users\User\Desktop\new - копия\blog.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,C:\Users\User\Desktop\new - копия\blog_2.fmx=C:\Users\User\Desktop\new - копия\Unit3.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
